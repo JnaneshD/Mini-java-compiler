@@ -11,4 +11,4 @@ A mini java compiler build on lex and yacc
   <li>python3</li>
 </ul>
 
-<h3>Report atached inside the target folder for refernce</h3>
+<h3>Report attached inside the target folder for refernce</h3>
