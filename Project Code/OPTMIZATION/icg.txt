@@ -1,0 +1,14 @@
+a = 3
+T1 = a + 4
+c = T1
+T2 = T1 - 4
+d = T2
+T3 = a < T1
+if T3 goto L1
+goto LABEL1
+L1:T4 = T2 + a
+e = T4
+goto L3
+LABEL1:T5 = T4 * 6
+e = T5
+L3:
