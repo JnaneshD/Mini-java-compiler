@@ -1,0 +1,17 @@
+a = 3
+T1 = 7
+c = 7
+T2 = 3
+d = 3
+T3 = 1
+if T3 goto L1
+goto LABEL1
+
+L1 : T4 = 6
+e = 6
+goto L3
+
+LABEL1 : T5 = 36
+e = 36
+
+L3 : 
