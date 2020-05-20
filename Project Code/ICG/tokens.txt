@@ -1,0 +1,62 @@
+Keyword : public
+Keyword : class
+Identifier : b
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Identifier : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : a
+Assignment operator : =
+NUM : 3
+semi-colon : ;
+Keyword : int
+Identifier : c
+Assignment operator : =
+Identifier : a
+Arithmetic operator : +
+NUM : 4
+semi-colon : ;
+Keyword : int
+Identifier : d
+Assignment operator : =
+Identifier : c
+Arithmetic operator : -
+NUM : 4
+semi-colon : ;
+Keyword : int
+Identifier : e
+semi-colon : ;
+Keyword : if
+Brackets : (
+Identifier : a
+Comparison operator : <
+Identifier : c
+Brackets : )
+Brackets : {
+Identifier : e
+Assignment operator : =
+Identifier : d
+Arithmetic operator : +
+Identifier : a
+semi-colon : ;
+Brackets : }
+Keyword : else
+Brackets : {
+Identifier : e
+Assignment operator : =
+Identifier : e
+Arithmetic operator : *
+NUM : 6
+semi-colon : ;
+Brackets : }
+Brackets : }
+Brackets : }
